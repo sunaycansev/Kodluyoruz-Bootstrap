@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav .nav-item a {
+  transition: all 0.4s ease-in;
+}
+.nav .nav-item a:hover {
+  color: #fff;
+}
+
+.bg-footer {
+  background-color: #f4f5f7;
+}
+.icon-area h6:hover {
+  color: #198754;
+  cursor: pointer;
+}
+.carousel {
+  cursor: pointer;
+}
+footer i {
+  transition: all 0.3s ease;
+}
+footer i:hover {
+  color: #222;
+}
+.card {
+  cursor: pointer;
+}
